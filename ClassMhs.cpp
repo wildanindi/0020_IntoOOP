@@ -40,5 +40,10 @@ class Matakuliah{
 
 int main () {
     Mahasiswa mhs;
-    
+    Matakuliah mk;
+
+    mhs.nama = "Budi";
+    mhs.umur = 20;
+    mhs.jurusan = "Teknik Informatika";
+
 }
